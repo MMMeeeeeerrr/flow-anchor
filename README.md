@@ -67,11 +67,6 @@ FlowAnchor 不是一个传统的 To-Do List，而是一个 **"思维缓存区 (M
 3.  在 GitHub 仓库设置中：`Settings` -> `Pages` -> Source 选择 `GitHub Actions`。
 4.  等待 Action 跑完，你的网页就上线了！
 
-## 📸 Screenshots (截图)
-
-_(建议你部署成功后，截图一张界面放在这里，替换掉这句话。截图会让仓库看起来吸引力倍增！)_
-
-`![App Screenshot](./screenshot.png)`
 
 ## 📄 License
 
